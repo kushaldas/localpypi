@@ -23,7 +23,7 @@ After you have any new project, you can recreate the main `./simple/index.html` 
 ./scripts/updateindex.py
 ```
 
-Now server the `simple` directory. 
+Now serve the `simple` directory using your favorite webserver. 
 
 For a local usage:
 

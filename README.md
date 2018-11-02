@@ -37,3 +37,9 @@ You can then use the server using `--index-url http://127.0.0.1:8000/simple` arg
 ```
 pip3 install --index-url http://127.0.0.1:8000/simple requests --no-cache-dir
 ```
+
+## To use my production instance from a static server
+
+```
+pip3 install --index-url https://kushaldas.in/simple requests --no-cache-dir 
+```
